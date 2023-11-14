@@ -1,0 +1,9 @@
+streamline
+speech_recognition
+openai
+requests
+PIL
+Image
+BytesIO
+io
+time
